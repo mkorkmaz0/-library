@@ -1,0 +1,14 @@
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.exe
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.deps.json
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.runtimeconfig.json
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.dll
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.pdb
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.AssemblyInfo.cs
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.dll
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\refint\kutuphane.dll
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.pdb
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.genruntimeconfig.cache
+C:\Users\melik\Desktop\c dersi\kutuphane\kutuphane\obj\Debug\net8.0\ref\kutuphane.dll
